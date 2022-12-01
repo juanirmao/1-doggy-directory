@@ -13,3 +13,5 @@ test('renders the landing page', async () => {
    expect(screen.getByRole("button", { name: "Search" })).toBeDisabled();
    expect(screen.getByRole("img")).toBeInTheDocument();
 });
+
+/*djdjlljcjlcnj*/
